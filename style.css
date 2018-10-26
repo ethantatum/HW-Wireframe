@@ -30,9 +30,10 @@ h1, p {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 h5 {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 section {
@@ -57,10 +58,9 @@ aside {
 
 footer {
     float: left;
-    width: 960px;
 }
 
 .howhigh {
-    margin-bottom: 15px;
-    height: 85px;
+    height: 75px;
+    width: 960px;
 }
